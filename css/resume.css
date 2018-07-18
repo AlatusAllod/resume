@@ -150,10 +150,6 @@ section.resume-section .resume-item .resume-date {
     font-family: 'OpinionProExtraCondensed-Light', serif;
     font-size: 1.25rem;
   }
-  section.resume-section {
-  padding-top: 2rem !important;
-  padding-bottom: 2rem !important;
-}
 }
 
 .bg-primary {
