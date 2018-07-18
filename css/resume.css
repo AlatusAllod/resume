@@ -130,6 +130,32 @@ section.resume-section .resume-item .resume-date {
   }
 }
 
+@media (max-width: 540px) {
+  body {
+    font-size: 1rem;
+  }
+  h1 {
+    font-size: 2rem;
+    line-height: 2rem;
+  }
+  h2 {
+    font-size: 1.5rem;
+  }
+  h3 {
+    font-size: 1.25rem;
+  }
+  .subheading {
+    text-transform: uppercase;
+    font-weight: 500;
+    font-family: 'OpinionProExtraCondensed-Light', serif;
+    font-size: 1.25rem;
+  }
+  section.resume-section {
+  padding-top: 2rem !important;
+  padding-bottom: 2rem !important;
+}
+}
+
 .bg-primary {
   background-color: #BD5D38 !important;
 }
